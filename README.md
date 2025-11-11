@@ -1,5 +1,7 @@
 ### Hello! I'm devcabo 👋
 
+Student in UFES - Universidade Federal do Espírito Santo, Electrical Engineer
+
 Focused on process automation with AI integration.
 I aim for efficiency and scalability through clean code and modern technologies.
 
