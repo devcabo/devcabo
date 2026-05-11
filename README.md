@@ -1,4 +1,4 @@
-### Hello! I'm Cauã Barcelos 👋
+### Hello! I'm Cauã 👋
 
 Student in UFES - Universidade Federal do Espírito Santo
 
