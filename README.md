@@ -1,6 +1,6 @@
 ### Hello! I'm Cauã Barcelos 👋
 
-Student in UFES - Universidade Federal do Espírito Santo, Electrical Engineer
+Student in UFES - Universidade Federal do Espírito Santo
 
 Focused on process automation with AI integration.
 I aim for efficiency and scalability through clean code and modern technologies.
