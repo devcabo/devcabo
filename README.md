@@ -2,8 +2,8 @@
 
 Student in UFES - Universidade Federal do Espírito Santo
 
-Focused on process automation with AI integration.
-I aim for efficiency and scalability through clean code and modern technologies.
+Focused on data analysis, process automation, and business intelligence.
+I aim to transform data into efficient and scalable solutions.
 
 ## Technologies i use in my day!
 
