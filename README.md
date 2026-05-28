@@ -21,6 +21,8 @@ I aim to transform data into efficient and scalable solutions.
  <img align="center" alt="html5" src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
  <img align="center" alt="html5" src="https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white" />
  <img align="center" alt="html5" src="https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+ <img align="center" alt="html5" src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+ 
 
 </div><br/>
 
