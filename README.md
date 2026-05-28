@@ -1,11 +1,11 @@
-### Hello! I'm Cauã 👋
+# Hello! I'm Cauã 👋
 
 Student in UFES - Universidade Federal do Espírito Santo
 
 Focused on data analysis, process automation, and business intelligence.
 I aim to transform data into efficient and scalable solutions.
 
-## Technologies i use in my day!
+### Technologies i use in my day!
 
 <div style="display: inline_block"><br/>
  <img align="center" alt="html5" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
