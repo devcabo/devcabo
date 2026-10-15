@@ -26,6 +26,16 @@ I aim to transform data into efficient and scalable solutions.
 
 </div><br/>
 
+### 🐍 Contribution Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devcabo/devcabo/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devcabo/devcabo/output/github-snake.svg">
+  <img alt="github snake animation" src="https://raw.githubusercontent.com/devcabo/devcabo/output/github-snake.svg">
+</picture>
+
+<br/>
+
 ## CONTACT:
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contatodevcabo@gmail.com)
